@@ -1,4 +1,4 @@
-# Sublime-LuaDev
+# Sublime-LuaDev by Noiwex
 Sublime support for luadev ( Garry's Mod )
 
 ## Installing:
@@ -9,4 +9,4 @@ Sublime support for luadev ( Garry's Mod )
 4. Restart sublime
 
 
-> Real creator: Noiwex (come back pls)
+> Noiwex, come back pls
