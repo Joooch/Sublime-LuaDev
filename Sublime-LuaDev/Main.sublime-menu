@@ -15,7 +15,6 @@
 					{ "command": "lua_send_sh", "caption": "Shared" },
 					{ "command": "lua_send_ent", "caption": "Send Entity" },
 					{ "command": "lua_send_wep", "caption": "Send SWEP" },
-					{ "command": "lua_send_ds", "caption": "Discord Message" }
 				]
 			}
 		]
