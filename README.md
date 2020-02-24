@@ -10,4 +10,4 @@ Sublime support for luadev ( Garry's Mod )
 4. Restart sublime
 
 
-(Noiwex, come back pls)
+> (Noiwex, come back pls)
