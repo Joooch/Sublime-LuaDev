@@ -1,0 +1,10 @@
+[
+	{ "command": "lua_send_self", "caption": "LuaDev: Self" },
+	{ "command": "lua_send_sv", "caption": "LuaDev: Server" },
+	{ "command": "lua_send_client", "caption": "LuaDev: Client" },
+	{ "command": "lua_send_cl", "caption": "LuaDev: Clients" },
+	{ "command": "lua_send_sh", "caption": "LuaDev: Shared" },
+	{ "command": "lua_send_ent", "caption": "LuaDev: Send Entity" },
+	{ "command": "lua_send_wep", "caption": "LuaDev: Send SWEP" },
+	{ "command": "lua_send_ds", "caption": "Discord Message" }
+]

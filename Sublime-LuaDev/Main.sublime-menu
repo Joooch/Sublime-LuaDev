@@ -1,0 +1,23 @@
+[
+	{
+		"id": "tools",
+		"children":
+		[
+			{
+				"caption": "LuaDev",
+				"mnemonic": "l",
+				"children":
+				[
+					{ "command": "lua_send_self", "caption": "Self" },
+					{ "command": "lua_send_sv", "caption": "Server" },
+					{ "command": "lua_send_client", "caption": "Client" },
+					{ "command": "lua_send_cl", "caption": "Clients" },
+					{ "command": "lua_send_sh", "caption": "Shared" },
+					{ "command": "lua_send_ent", "caption": "Send Entity" },
+					{ "command": "lua_send_wep", "caption": "Send SWEP" },
+					{ "command": "lua_send_ds", "caption": "Discord Message" }
+				]
+			}
+		]
+	}
+]
