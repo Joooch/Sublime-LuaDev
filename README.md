@@ -20,7 +20,6 @@ Preferences > Key Bindings
 	{ "keys": ["ctrl+5"], "command": "lua_send_sh" },
 	{ "keys": ["ctrl+6"], "command": "lua_send_ent" },
 	{ "keys": ["ctrl+7"], "command": "lua_send_wep" },
-	{ "keys": ["ctrl+8"], "command": "lua_send_ds" }
 ]
 ```
 
