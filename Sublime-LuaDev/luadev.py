@@ -61,12 +61,3 @@ class lua_send_clientCommand(sublime_plugin.TextCommand):
 		if len(input) <= 0:
 			return
 		send(self, "client", input)
-
-class lua_send_dsCommand(sublime_plugin.TextCommand):
-	def run(self, edit):
-		self.view.window().show_input_panel("Message?", "", self.on_done, None, None)
-	
-	def on_done(self, input):
-		if len(input) <= 0:
-			return
-		sendmessage(self, "ds", input)
