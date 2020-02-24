@@ -1,5 +1,6 @@
 # Sublime-LuaDev
 Sublime support for luadev ( Garry's Mod )
+(Created by Noiwex)
 
 ## Installing:
 
