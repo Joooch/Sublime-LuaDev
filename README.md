@@ -9,4 +9,4 @@ Sublime support for luadev ( Garry's Mod )
 4. Restart sublime
 
 
-> This addon created by Noiwex (come back pls)
+> Real creator: Noiwex (come back pls)
