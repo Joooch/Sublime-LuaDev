@@ -1,6 +1,5 @@
 # Sublime-LuaDev
 Sublime support for luadev ( Garry's Mod )
-(Created by Noiwex)
 
 ## Installing:
 
@@ -10,4 +9,4 @@ Sublime support for luadev ( Garry's Mod )
 4. Restart sublime
 
 
-> (Noiwex, come back pls)
+> This addon created by Noiwex (come back pls)
