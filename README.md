@@ -5,7 +5,7 @@ Sublime support for luadev ( Garry's Mod )
 
 1. Open sublime
 2. Select Preferences > Browse Packages...
-3. Copy the folder in which this README.txt is located, to the folder that just opened
+3. Copy the files in Sublime-LuaDev, to the folder User
 4. Restart sublime
 
 ## Binding:
