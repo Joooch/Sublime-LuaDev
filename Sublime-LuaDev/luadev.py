@@ -9,7 +9,7 @@ def getsource(inst):
 def send(inst, method, to=None):
 	sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 	sock.connect(("127.0.0.1", 27099))
-	
+	print("connected")
 	sock.sendall(
 		method.encode() + b"\n" +
 		getsource(inst).encode() + b"\n" +
@@ -19,16 +19,6 @@ def send(inst, method, to=None):
 	
 	sock.close()
 
-def sendmessage(inst, method, message):
-	sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
-	sock.connect(("127.0.0.1", 27099))
-	
-	sock.sendall(
-		method.encode() + b"\n" +
-		message.encode()
-	)
-	
-	sock.close()
 class lua_send_selfCommand(sublime_plugin.TextCommand):
 	def run(self, edit):
 		send(self, "self")
