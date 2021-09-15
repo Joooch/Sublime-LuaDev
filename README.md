@@ -1,11 +1,11 @@
-# Sublime-LuaDev by Noiwex
+# Sublime-LuaDev by Noiwex ( fork )
 Sublime support for luadev ( Garry's Mod )
 
 ## Installing:
 
 1. Open sublime
 2. Select Preferences > Browse Packages...
-3. Copy the folder Sublime-LuaDev to the folder that just opened (be like AppData\Roaming\Sublime Text 3\Packages\Sublime-LuaDev\3files)
+3. Copy the folder Sublime-LuaDev to the folder that just opened (AppData\Roaming\Sublime Text 3\Packages\Sublime-LuaDev\3files)
 4. Restart sublime
 
 ## Binding:
